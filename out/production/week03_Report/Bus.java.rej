@@ -1,0 +1,10 @@
+diff a/Bus.java b/Bus.java	(rejected hunks)
+@@ -1,8 +1,6 @@
+ public class Bus {
+     String number;
+     int oil;
+-
+-
+     Bus(String number){
+         this.number = number;
+     }
